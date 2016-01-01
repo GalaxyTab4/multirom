@@ -1,0 +1,6 @@
+[submodule "kexec-tools"]
+	path = kexec-tools
+	url = https://github.com/GalaxyTab4/kexec-tools
+[submodule "adbd"]
+	path = adbd
+	url = https://github.com/GalaxyTab4/multirom_adbd.git
